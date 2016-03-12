@@ -401,6 +401,10 @@
         <name>WebLink</name>
     </types>
     <types>
+        <members>Case.QA_Alert</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
         <members>Case.Increment</members>
         <name>WorkflowFieldUpdate</name>
     </types>
